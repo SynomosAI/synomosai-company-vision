@@ -1,0 +1,50 @@
+# synomosai-company-vision — 完整文本 / Full text
+
+本文件为 llms.txt 标准的「完整版」，供长上下文模型一次性读取本仓库的完整说明。
+
+## 这是什么
+
+`synomosal-company-vision`（仓名 `synomosai-company-vision`）是 SynomosAI 的**公司远景与立场文档仓**。核心资产是一个自包含的中文 HTML 远景页 `gov_vision_zh_v0.1-company-vision.html`，配合远景示意图 `远景图.png` 与品牌标识 `logo.svg`。
+
+一句话：当 AI 进入商业，可信是唯一的硬通货；本仓陈述 SynomosAI 的四支柱世界观——身份（Identity）· 溯源（Traceability）· 治理（Governance）· 共生（Symbiosis）。
+
+## 解决什么问题
+
+1. 给整个 SynomosAI 生态一个统一的立场锚点：其它规范仓、审计仓、流程仓在引用价值取向时回到这里。
+2. 把「人与 AI 治理」的抽象理念落成一张可在浏览器直接打开的交互图。
+3. 对外（与对内）一致地说明四支柱与外部参考标准（ISO/IEC 42001、NIST AI RMF、GB/Z 185）的对标关系。
+
+## 四支柱
+
+1. Identity 身份 —— AI 护照机制：每个 AI 实体可被识别、可被追责。
+2. Traceability 溯源 —— XCGS 治理系统：决策与产出全链路留痕。
+3. Governance 治理 —— A³ 法则：Alignment / Audit / Accountability。
+4. Symbiosis 共生 —— AI 世界共生论：人与 AI 长期共存的伦理与制度。
+
+## 快速开始
+
+本仓是纯内容仓，无需安装运行时：
+
+```bash
+git clone --depth 1 https://github.com/SynomosAI/synomosal-company-vision.git
+cd synomosai-company-vision
+start gov_vision_zh_v0.1-company-vision.html   # Windows
+```
+
+## 触发词
+
+公司远景 / 四支柱 / 身份 溯源 治理 共生 / AI 护照 / XCGS / A³ 法则 / AI 共生论 / 人与 AI 治理 / company vision / four pillars / AI governance stance。
+
+## 许可与权利
+
+MIT 许可。Copyright (c) 2026 SynomosAI。SynomosAI 等为项目标识，未申请实体注册、未申请商标注册。完整条款见 `LICENSE`。
+
+## 边界
+
+本仓只陈述立场，不执行任何检查；需要可运行的检查请使用生态内工具仓（如 `traceability-audit`、`ai-governance-audit-chain`）。文中涉及的外部标准为公开资料转述，正式引用前请独立核实。
+
+## 链接
+
+- 仓库: https://github.com/SynomosAI/synomosai-company-vision
+- 生态全景: https://github.com/SynomosAI/synomosal-skills
+- 理论站位: https://github.com/SynomosAI/traceability-audit

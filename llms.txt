@@ -1,0 +1,19 @@
+# synomosai-company-vision
+
+> SynomosAI company vision and stance document (Chinese, v0.1): the four-pillar system Identity · Traceability · Governance · Symbiosis — when AI enters commerce, trust is the only hard currency.
+
+A content-only repo (self-contained HTML vision page + PNG diagram + SVG logo). It is the stance anchor of the SynomosAI ecosystem; it states the worldview but runs no checks.
+
+## Core
+
+- [README.md](https://github.com/SynomosAI/synomosai-company-vision/blob/main/README.md): bilingual overview, quick start, layout
+- [gov_vision_zh_v0.1-company-vision.html](https://github.com/SynomosAI/synomosai-company-vision/blob/main/gov_vision_zh_v0.1-company-vision.html): the main vision document (Chinese, open in a browser)
+- [LICENSE](https://github.com/SynomosAI/synomosai-company-vision/blob/main/LICENSE): MIT
+
+## Optional
+
+- [README.en.md](https://github.com/SynomosAI/synomosai-company-vision/blob/main/README.en.md): English overview
+- [AGENTS.md](https://github.com/SynomosAI/synomosai-company-vision/blob/main/AGENTS.md): guidance for AI agents
+- [llms-full.txt](https://github.com/SynomosAI/synomosai-company-vision/blob/main/llms-full.txt): full text for long-context models
+- [SECURITY.md](https://github.com/SynomosAI/synomosai-company-vision/blob/main/SECURITY.md): security policy
+- [CODEOWNERS](https://github.com/SynomosAI/synomosai-company-vision/blob/main/CODEOWNERS): content owners
